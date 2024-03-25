@@ -1,5 +1,5 @@
 /*Avatar Decoration*/
-/*Replace <Avatar Decoration> with the Avatar Decoration you want to replace*/
+/*Replace <Avatar Decoration> with the Avatar Decoration you want to replace, make sure to remove the "?size=240&passthrough=true"*/
 [src*="<Avatar Decoration>"] {
     
     object-position: 9999px;
@@ -14,7 +14,7 @@
 }
 
 /*Profile Effect*/
-/*Replace <Profile Effect> with the Profile Effect you want to replace*/
+/*Replace <Profile Effect> with the Profile Effect you want to replace, make sure to remove the "/intro.png" or "/loop.png"*/
 [src*="<Profile Effect>"] {
 
     object-position: 9999px;
