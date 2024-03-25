@@ -1,0 +1,29 @@
+/*Avatar Decoration*/
+/*Replace <Avatar Decoration> with the Avatar Decoration you want to replace*/
+[src*="<Avatar Decoration>"] {
+    
+    object-position: 9999px;
+
+    /*Replace <ReplaceWith> with the Avatar Decoration you want <Avatar Decoration> to be*/
+    background-image: url(<ReplaceWith>);
+
+
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+/*Profile Effect*/
+/*Replace <Profile Effect> with the Profile Effect you want to replace*/
+[src*="<Profile Effect>"] {
+
+    object-position: 9999px;
+
+    /*Replace <ReplaceWith> with the Profile Effect you want <Profile Effect> to be*/
+    background-image: url(<ReplaceWith>);
+
+
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
